@@ -8,6 +8,7 @@
 *For this dashboard I have used data from the [**Public Database of the Madrid City Council**](https://servpub.madrid.es/CSEBD_WBINTER/seleccionSerie.html?numSerie=0904010000014) 
 
 **District and neighborhood view**
+
 In these tables, you can view the data presented in both a map and a clustered bar chart, along with a card displaying the total percentage. I have included slicers to filter by age group, month, gender, and district/neighborhood. Additionally, a toggle button allows you to switch between district and neighborhood views seamlessly. 
 
 ![District View](https://github.com/laurasalvadorglez/Dashboards/blob/main/Assets/DistrictsView.png)
@@ -15,6 +16,7 @@ In these tables, you can view the data presented in both a map and a clustered b
 ![Neighborhood View](https://github.com/laurasalvadorglez/Dashboards/blob/main/Assets/Barrios.png)
 
 **Evolution by district and neighborhood**
+
 In the following sheet you can see in line graphs the evolution by district with the evolution by sex, by age and in the upper part a fixed graph of the city for comparison.
 When you click on the button to change to neighborhoods, you will see the line graphs with the total of the respective district, neighborhood total, by gender and by age. 
 
@@ -24,6 +26,7 @@ When you click on the button to change to neighborhoods, you will see the line g
 
 
 **Unemployment rate** 
+
 Finally, a stacked column bar for the distribution of the unemployment rate by districts and neighborhoods and a treemap for the grouped rate.
 
 ![Unemployment rate](https://github.com/laurasalvadorglez/Dashboards/blob/main/Assets/Tasa.png)
@@ -40,6 +43,7 @@ In Queries we duplicate it to separate the districts from the neighborhoods when
 ![Duplicate](https://github.com/laurasalvadorglez/Dashboards/blob/main/Assets/Dupli.png)
 
 **Cleaned Data**
+
 We delete, replace, rename, split, univot to finally have it the way we want it.
 
 ![Clean Data 2](https://github.com/laurasalvadorglez/Dashboards/blob/main/Assets/Datos2.png)
