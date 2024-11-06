@@ -47,5 +47,6 @@ Not forgetting the connections with the codes in the model view.
 **Model View** ![Model view](https://github.com/laurasalvadorglez/Dashboards/blob/main/Assets/conexiones.png)
 
 ***For privacy reasons, it is not possible to upload other sheets of this dashboard. But here is other way to upload data*** 
+
 Some data are obtained on a monthly or quarterly basis, for which a union folder can be created. In this folder the files will be incorporated as they come out, and in Power BI will appear merged as if they were a single document.
 ![Union](https://github.com/laurasalvadorglez/Dashboards/blob/main/Assets/Union.png)
