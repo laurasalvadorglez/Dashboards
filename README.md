@@ -1,6 +1,8 @@
 # Dashboards 📊
 ## Table of Contents
 1. [Unemployment in Madrid](#Unemployment-in-Madrid)
+2. [Unemployment in Madrid: Data](#Unemployment-in-Madrid:-Data)
+
 
 ### Unemployment in Madrid
 *For this dashboard I have used data from the [**Public Database of the Madrid City Council**](https://servpub.madrid.es/CSEBD_WBINTER/seleccionSerie.html?numSerie=0904010000014) 
@@ -24,3 +26,21 @@ When you click on the button to change to neighborhoods, you will see the line g
 Finally, a stacked column bar for the distribution of the unemployment rate by districts and neighborhoods and a treemap for the grouped rate. 
 
   **Unemployment rate** ![Unemployment rate](https://github.com/laurasalvadorglez/Dashboards/blob/main/Assets/Tasa.png)
+
+
+### Unemployment in Madrid: Data
+The data was uploaded through the web option. 
+When we look at the data we see this: 
+**Clean Data 1** ![Clean Data 1](https://github.com/laurasalvadorglez/Dashboards/blob/main/Assets/Datos1.png)
+
+In Queries we duplicate it to separate the districts from the neighborhoods when cleaning it. 
+**Duplicate** ![Duplicate](https://github.com/laurasalvadorglez/Dashboards/blob/main/Assets/Dupli.png)
+
+We delete, replace, rename, split, univot to finally have it the way we want it. 
+**Clean Data 2** ![Clean Data 2](https://github.com/laurasalvadorglez/Dashboards/blob/main/Assets/Datos2.png)
+
+Not forgetting the connections with the codes in the model view.
+**Model View** ![Model view](https://github.com/laurasalvadorglez/Dashboards/blob/main/Assets/conexiones.png)
+
+
+Por razones de privacidad, no es posible subir otras hojas del cuadro de mando. Pero si voy a compartir otros modos de compartir los datos con el cuadro de mando. 
