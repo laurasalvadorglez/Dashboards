@@ -8,7 +8,7 @@
 In these tables you can see the data arranged both in map and clustered bar chart and a card with the total percentage. I have introduced slicers to be able to filter by age groups, month, gender and district/neighborhood. 
 On the other hand, I have added a button to switch from the district view to the neighborhood view and vice versa. 
 
-**District View**   ![District View](https://github.com/laurasalvadorglez/Dashboards/blob/main/Assets/DistrictsView.png
+**District View**   ![District View](https://github.com/laurasalvadorglez/Dashboards/blob/main/Assets/DistrictsView.png)
 
 **Neighborhood view** ![Neighborhood View](https://github.com/laurasalvadorglez/Dashboards/blob/main/Assets/Barrios.png)
 
