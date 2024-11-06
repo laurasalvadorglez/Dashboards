@@ -32,15 +32,15 @@ Finally, a stacked column bar for the distribution of the unemployment rate by d
 The data was uploaded through the web option. 
 When we look at the data we see this: 
 
-**Clean Data 1** ![Clean Data 1](https://github.com/laurasalvadorglez/Dashboards/blob/main/Assets/Datos1.png)
+**Cleaning Data** ![Clean Data 1](https://github.com/laurasalvadorglez/Dashboards/blob/main/Assets/Datos1.png)
 
 In Queries we duplicate it to separate the districts from the neighborhoods when cleaning it. 
 
-**Duplicate** ![Duplicate](https://github.com/laurasalvadorglez/Dashboards/blob/main/Assets/Dupli.png)
+![Duplicate](https://github.com/laurasalvadorglez/Dashboards/blob/main/Assets/Dupli.png)
 
 We delete, replace, rename, split, univot to finally have it the way we want it.
 
-**Clean Data 2** ![Clean Data 2](https://github.com/laurasalvadorglez/Dashboards/blob/main/Assets/Datos2.png)
+**Cleaned Data** ![Clean Data 2](https://github.com/laurasalvadorglez/Dashboards/blob/main/Assets/Datos2.png)
 
 Not forgetting the connections with the codes in the model view.
 
